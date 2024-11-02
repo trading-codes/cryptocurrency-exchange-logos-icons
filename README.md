@@ -18,3 +18,5 @@ Available Formats:
 Compressed with pngquant
 
 
+# License
+MIT
